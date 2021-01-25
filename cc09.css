@@ -1,0 +1,60 @@
+*{
+    color: white;
+}
+p{
+    font-size: 23px;
+}
+body {
+    background-color: black;
+}
+h1 {
+    text-align: center;
+    font-size: 90px;
+    font-family: 'Lobster', cursive;
+    font-weight: bold;
+}
+h2{
+    font-size: 60px;
+    font-family: 'Lobster', cursive;
+}
+#red_text {
+    color: red;
+    text-align: center;
+}
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 20px;
+    width: 350px;
+    margin-bottom: 50px;
+}
+.first_p{
+    text-align: center;
+    margin-bottom: 70px;
+    margin-top: 70px;
+}
+.whole{
+    width: 80%;
+    margin:auto;
+}
+.wiki {
+    color: red;
+    text-decoration: none;
+}
+.footer{
+    display: flex;
+    justify-content: center;
+    margin-top: 20px ;
+    padding-top: 30px;
+    margin-bottom: 0%;
+    padding-bottom: 0%;
+}
+li{
+    font-size: 23px;
+    line-height: 40px;
+}
+.info{
+    text-align: center;
+    padding-top: 10px;
+}
